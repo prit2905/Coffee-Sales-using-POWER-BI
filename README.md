@@ -1,4 +1,5 @@
 # Coffee-Sales-using-POWER-BI
+![image](https://github.com/user-attachments/assets/488464a8-78e5-42ee-bbd6-6848c5ece989)
 ![image](https://github.com/user-attachments/assets/86d7178b-11b8-4df5-ad98-63b50f3bdb16)
 ![image](https://github.com/user-attachments/assets/cd9c1ba7-b7e6-4a5c-aa11-4cddffbd38ee)
 ![image](https://github.com/user-attachments/assets/90a0365f-c91d-4f42-b3de-6f2295e8005b)
